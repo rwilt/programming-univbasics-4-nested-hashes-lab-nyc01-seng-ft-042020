@@ -66,6 +66,10 @@ def adding_matz
 # return the entire updated hash
 
 	programmer_hash = {
+		:Matz = {
+			:known_for => "Ruby",
+			:languages => ["LISP", "C"]
+		},
 	:yukihiro_matsumoto => {
 	  :known_for => "Ruby",
 	  :languages => ["LISP", "C"]
