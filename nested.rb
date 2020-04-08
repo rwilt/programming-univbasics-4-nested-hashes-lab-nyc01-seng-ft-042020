@@ -93,7 +93,7 @@ programmer_hash[0][:Matz] = {
 	:known_for => "Ruby",
 	:languages => ["LISP", "C"]
 }
-
+programmer_hash
 end
 
 def changing_alan
